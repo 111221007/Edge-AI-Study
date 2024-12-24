@@ -27,6 +27,21 @@ A curated list of research papers focusing on efficient Edge AI model deployment
 - [AI on the Edge: Characterizing AI-based IoT Applications Using Specialized Edge Architectures](https://ieeexplore.ieee.org/document/9251253)  
 - [Communication-Efficient Edge AI Inference Over Wireless Networks](https://arxiv.org/abs/2004.13351)  
 
+
+## 📺 Articles and Resources
+- [Advantech: Industry Focus on Edge AI](https://www.advantech.com/en/resources/industry-focus/edge-ai)  
+- [NVIDIA: Considerations for Deploying AI at the Edge](https://resources.nvidia.com/en-us-fleet-command/considerations-for-deploying-ai-at-the-edge-technical-overview)  
+- [NVIDIA Blog: What is Edge AI?](https://blogs.nvidia.com/blog/what-is-edge-ai/)  
+- [Awesome EdgeAI GitHub](https://github.com/wangxb96/Awesome-EdgeAI)  
+- [Edge AI Paper List GitHub](https://github.com/xumengwei/Edge-AI-Paper-List)  
+- [Awesome Cloud-Edge-AI GitHub](https://github.com/swagshaw/Awesome-Cloud-Edge-AI)  
+- [Edge AI Tech Overview](https://edge-ai-tech.eu/overview/)  
+- [Edge Impulse](https://edgeimpulse.com/)  
+- [JASA Edge AI Expo](https://www.jasa.or.jp/expo/english/?_gl=1*1y7tc1m*_gcl_au*NzQ1NzExOTY4LjE3MzE0OTYxNjY.)  
+- [AI Mobile](https://www.aimobile.com.tw/edge)  
+- [Run AI: Edge AI Guide](https://www.run.ai/guides/machine-learning-operations/edge-ai)  
+- [Intel Edge AI](https://www.intel.com/content/www/us/en/learn/edge-ai.html)  
+- [IBM: Edge AI](https://www.ibm.com/topics/edge-ai) 
 ---
 
 ## 🚀 How to Contribute
