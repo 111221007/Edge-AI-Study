@@ -50,4 +50,4 @@ A curated list of research papers focusing on efficient Edge AI model deployment
 - Submit a pull request.  
 
 ## 📧 Contact
-For suggestions or contributions, feel free to open an issue or contact me directly.
+For suggestions or contributions, feel free to open an issue or contact me directly. cmporeddy@gmail.com
